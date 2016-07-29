@@ -7,8 +7,9 @@ Client code https://github.com/lethalskillzz/Arduino-Messanger-Client<br><br>
 * 2× APC220 Tranceiver Module
 * 1× 16×2 LCD Screen (compatible with Hitachi HD44780 driver)
 * 1× 10K Potentiometer
-* 16× Connection Wires<br>
-*1x 9V Battery
+* 16× Connection Wires
+*1x 9V Battery<br><br>
+
 <img src="ardmsg.jpg">
  
  
