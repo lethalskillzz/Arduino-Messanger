@@ -10,6 +10,8 @@ Client code https://github.com/lethalskillzz/Arduino-Messanger-Client<br><br>
 * 16× Connection Wires
 * 1x 9V Battery<br><br>
 
+### Snapshot of the setup<br><br>
+
 <img src="ardmsg.jpg">
  
  
