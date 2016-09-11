@@ -12,5 +12,3 @@ Client code https://github.com/lethalskillzz/Arduino-Messanger-Client<br>
 * 
 ### Snapshot of the setup<br>
 <img src="ardmsg.jpg">
- 
- 
