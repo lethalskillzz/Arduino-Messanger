@@ -4,7 +4,7 @@
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 int led = 9;
 
-void setup()
+void setup()   
 { 
   pinMode(led, OUTPUT);
   Serial.begin(19200);    //  Definition UART port rate 19200, according to serial port of APC220
