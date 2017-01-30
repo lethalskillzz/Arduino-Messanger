@@ -13,7 +13,7 @@ void setup()
   lcd.begin(16, 2);
 }
 void loop()
-{        
+{                     
                                                 
 // when characters arrive over the serial port...
   if (Serial.available()) {
