@@ -8,7 +8,7 @@ Client code https://github.com/lethalskillzz/Arduino-Messanger-Client<br>
 * 1× 16×2 LCD Screen (compatible with Hitachi HD44780 driver)
 * 1× 10K Potentiometer
 * 16× Connection Wires
-* 1x 9V Battery<br><br>
+* 1x 9V Battery<br><br>  
   
 ### Snapshot of the setup<br>
 <img src="ardmsg.jpg">   
