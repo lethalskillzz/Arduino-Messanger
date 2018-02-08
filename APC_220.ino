@@ -35,5 +35,5 @@ void loop()
       // display each character to the LCD
       lcd.write(Serial.read());
     }
-  }
+  } 
 }
